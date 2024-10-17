@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define start, center, and end color for gradient -->
+    <gradient
+        android:centerColor="#f7e8fc"
+        android:endColor="#f2d9fc"
+        android:startColor="#fefaff" />
+</shape>
